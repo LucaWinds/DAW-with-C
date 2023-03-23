@@ -1,0 +1,7 @@
+﻿  main.c
+D:\Ccodes\학교\Project1\main.c(61,53): warning C4133: '함수': 'char *'과(와) 'LPWSTR' 사이의 형식이 호환되지 않습니다.
+D:\Ccodes\학교\Project1\main.c(62,29): warning C4133: '함수': 'char [128]'과(와) 'LPCWSTR' 사이의 형식이 호환되지 않습니다.
+D:\Ccodes\학교\Project1\main.c(62,46): warning C4133: '함수': 'char [14]'과(와) 'LPCWSTR' 사이의 형식이 호환되지 않습니다.
+D:\Ccodes\학교\Project1\main.c(122,29): warning C4311: '형식 캐스트': 'void (__cdecl *)(HMIDIOUT,UINT,DWORD,DWORD,DWORD)'에서 'DWORD'(으)로 포인터가 잘립니다.
+D:\Ccodes\학교\Project1\main.c(123,20): warning C4311: '형식 캐스트': 'void *'에서 'DWORD'(으)로 포인터가 잘립니다.
+  Project1.vcxproj -> D:\Ccodes\학교\Project1\x64\Debug\Project1.exe
